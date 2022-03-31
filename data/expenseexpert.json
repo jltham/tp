@@ -53,6 +53,7 @@
     "personAmount" : "75.00"
   } ],
   "budget" : {
+<<<<<<< HEAD
     "budgetAmount" : "2000.00",
     "budgetDate" : "2022-03-01"
   },
@@ -68,3 +69,9 @@
     "expenseCategory" : "Transport"
   } ]
 }
+=======
+    "budgetAmount" : "1000",
+    "budgetDate" : "2022-03-30"
+  }
+}
+>>>>>>> 085410a0ad8f3b9532c445be3923073ca31771ff
